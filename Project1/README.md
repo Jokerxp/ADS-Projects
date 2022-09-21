@@ -4,7 +4,7 @@
 
 The project aims to explore a significant development of capitalism in the late 19th and early 20th century.
 
-1. Begined with a word cloud to present some key words of capitalism
+1. Began with a word cloud to present key words of capitalism
 2. Explained why capitalism developed rapidly in this era based on semantic analysis with NRC Emotion lexicon
 3. Utilized TF-IDF to extract the most important ten words of different eras
 4. Calculated cosine text similarity within two schools based on a larger corpus
